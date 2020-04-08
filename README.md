@@ -1,3 +1,6 @@
+# Redux Practice
+video: https://youtu.be/CVpUuw9XSjY
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
